@@ -4,7 +4,7 @@ databases:
     databaseName: blog_sample
     user: blog_sample
 
-servises:
+services:
   - type: web
     name: blog-sample-web-1f10210164
     env: python
